@@ -427,4 +427,4 @@ bot.on('message', async (message) => {
 }
 });
 
-bot.login('NDE1OTgyMDU5Mzc5NDkwODQ3.DkEvYg.ar5gw1gif0IV8LAS_cJbsd2_bMY')
+bot.login('BOT_TOKEN')
